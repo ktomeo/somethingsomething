@@ -1,0 +1,27 @@
+* {
+    color: rgb(42, 170, 209);
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    background-color: rgb(56, 56, 56);
+}
+
+.homepic img {
+    height: auto;
+    width: auto;
+    max-width: 100%
+}
+
+p {
+    color: red;
+}
+
+h1 {
+    color: purple;
+}
+
+.header {
+    color: rgb(255, 82, 111);
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
