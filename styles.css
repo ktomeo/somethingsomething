@@ -5,7 +5,7 @@
     background-color: rgb(56, 56, 56);
 }
 
-.homepic img {
+img.homepic {
     height: auto;
     width: auto;
     max-width: 100%
